@@ -2,7 +2,9 @@
 
 # 拾回
 
-**看清废纸篓中的文件，找到可验证的来源，再决定恢复或清理。**
+**拾回这个软件解决了在 ntfs 磁盘里删除文件，macos的废纸篓不会显示文件路径和删除时间的问题
+
+显示废纸篓中的文件路径，显示删除时间。**
 
 ![产品介绍](assets/banner.svg)
 
@@ -27,7 +29,7 @@
 
 ## 下载与安装
 
-当前版本 **0.1.0（build 7）**。当前发布包面向 **Apple Silicon Mac**，要求 **macOS 13 或更新版本**。
+当前版本 **0.1.2（build 7）**。当前发布包面向 **Apple Silicon Mac**，要求 **macOS 13 或更新版本**。
 
 1. 前往 [Releases](https://github.com/jhtnba/shihui/releases/latest)，下载 `拾回-0.1.0-macOS.dmg`。
 2. 打开 DMG，把 App 拖到“应用程序”。
