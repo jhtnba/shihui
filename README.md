@@ -12,9 +12,7 @@
 
 [下载应用](https://github.com/jhtnba/shihui/releases/latest) · [使用方法](docs/GUIDE.md) · [更新记录](CHANGELOG.md) · [常见问题](docs/FAQ.md) · [反馈问题](https://github.com/jhtnba/shihui/issues/new/choose)
 
-## 为谁准备
 
-看清废纸篓中的文件，找到可验证的来源，再决定恢复或清理。 如果你希望在 Mac 上完成废纸篓检查与恢复，可以从当前版本开始尝试。
 
 ## 主要功能
 
